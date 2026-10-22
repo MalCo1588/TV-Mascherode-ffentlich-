@@ -10,7 +10,9 @@ Android-App der Altherren Ü32 des TV Mascherode: Trainingsplaner mit 200 Übung
 3. In der App unter **Team → Synchronisation** Link und Team-PIN eintragen (gibt es beim Trainer). Dann kommen Teamliste und Laufchallenge automatisch.
 
 ## Aktualisieren
-Ab Version 2.6 prüft die App beim Start selbst, ob es eine neue Version gibt, und zeigt dann „Herunterladen“ an.
+Ab Version 2.8 prüft die App bei jedem Öffnen selbst, ob es eine neue Version gibt, und zeigt dann „Herunterladen“ an.
 Die neue Datei antippen und **Aktualisieren** wählen. Einstellungen und Daten bleiben erhalten.
+
+Was sich in jeder Version geändert hat, steht in **[CHANGELOG.md](CHANGELOG.md)** und in der App im Reiter **Neu**.
 
 Ältere Versionen liegen im Ordner `apk/`. Nur für den internen Gebrauch der Altherren Ü32.
