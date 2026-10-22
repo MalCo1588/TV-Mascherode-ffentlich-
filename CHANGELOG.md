@@ -2,6 +2,10 @@
 
 Die neueste Version steht oben. Dieselbe Liste steht in der App im Reiter **Neu**.
 
+## Version 2.9 – 22.10.2026
+- Akku schonen: Geht die App in den Hintergrund, wird sie komplett angehalten. Synchronisation und Update-Prüfung laufen nur, solange die App geöffnet ist.
+- Beim Zurückholen der App wird einmal sofort abgeglichen.
+
 ## Version 2.8 – 22.10.2026
 - Die App prüft bei jedem Öffnen, ob es eine neue Version gibt, und zeigt dann sofort den Hinweis zum Herunterladen.
 - Neuer Reiter „Neu“ mit allen Änderungen je Version. Nach einem Update erscheint einmal ein Hinweis darauf.
