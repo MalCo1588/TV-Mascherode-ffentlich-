@@ -3,7 +3,7 @@
 Android-App der Altherren Ü32 des TV Mascherode: Trainingsplaner mit 200 Übungen, Vorbereitungs-Einheiten, Teamliste und Laufchallenge.
 
 ## Installieren
-**[⬇ Aktuelle App herunterladen](https://raw.githubusercontent.com/MalCo1588/tv-mascherode-ffentlich-/main/apk/TVM-Ue32-Trainer-aktuell.apk)**
+**[⬇ Aktuelle App herunterladen](https://raw.githubusercontent.com/MalCo1588/TV-Mascherode-ffentlich-/main/apk/TVM-Ue32-Trainer-aktuell.apk)**
 
 1. Den Link oben auf dem Android-Handy öffnen und die APK herunterladen.
 2. Die Datei antippen. Beim ersten Mal erlauben, dass der Browser „unbekannte Apps installieren“ darf.
