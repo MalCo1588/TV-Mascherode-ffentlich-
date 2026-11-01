@@ -2,6 +2,15 @@
 
 Die neueste Version steht oben. Dieselbe Liste steht in der App im Reiter **Neu**.
 
+## Version 3.1 – 01.11.2026
+- Einmalig: Die App hat eine neue Signatur. Vor der Installation die alte App deinstallieren, danach unter Team die Synchronisation mit Link, PIN und Name neu verbinden.
+- Neuer Reiter „Spieltag“: anhaken, wer dabei ist, und daraus automatisch eine Aufstellung erzeugen.
+- Bewährte Spielsysteme zur Auswahl: 4-4-2, 4-4-2 Raute, 4-3-3, 4-2-3-1, 3-5-2, 5-3-2, für Kleinfeld auch 9 gegen 9 und 7 gegen 7.
+- Rückennummern automatisch nach Position (1 bis 11, Bank ab 12) oder als feste Nummer je Spieler.
+- Wunschposition je Spieler (Abwehr, Mittelfeld, Sturm, dazu eine zweite Wahl). Torhüter kommen automatisch ins Tor.
+- Spieler zum Tauschen einfach nacheinander antippen, auf dem Feld oder auf der Bank.
+- Aufstellung mit Gegner, Datum, Anstoß und Treffpunkt per WhatsApp teilen.
+
 ## Version 3.0 – 24.10.2026
 - Neuer Reiter „Mein Training“: eigenes Training aus allen Übungen zusammenstellen, Reihenfolge und Minuten festlegen, speichern und teilen. Material wird automatisch zusammengerechnet.
 - Filter nach Art der Übung (Aufwärmspiel, Passspiel, Torschuss, Kondition, Koordination, Zweikampf, Spielform, Abschlussspiel, Technik), nach Schwierigkeit (leicht, mittel, schwer) und nach Quelle.
