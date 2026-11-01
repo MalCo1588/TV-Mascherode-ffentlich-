@@ -2,6 +2,12 @@
 
 Die neueste Version steht oben. Dieselbe Liste steht in der App im Reiter **Neu**.
 
+## Version 3.0 – 24.10.2026
+- Neuer Reiter „Mein Training“: eigenes Training aus allen Übungen zusammenstellen, Reihenfolge und Minuten festlegen, speichern und teilen. Material wird automatisch zusammengerechnet.
+- Filter nach Art der Übung (Aufwärmspiel, Passspiel, Torschuss, Kondition, Koordination, Zweikampf, Spielform, Abschlussspiel, Technik), nach Schwierigkeit (leicht, mittel, schwer) und nach Quelle.
+- Neuer Reiter „Übung erstellen“: grünes Spielfeld, auf dem Spieler, Torhüter, Hütchen, Ball, Tore, Pässe, Laufwege, Dribblings und Schüsse frei gesetzt und verschoben werden. Dazu Beschreibung, Art, Schwierigkeit und Zusatzmaterial.
+- Eigene Übungen erscheinen im Katalog und unter „Mein Training“ und werden mit den anderen Trainern synchronisiert.
+
 ## Version 2.9 – 22.10.2026
 - Akku schonen: Geht die App in den Hintergrund, wird sie komplett angehalten. Synchronisation und Update-Prüfung laufen nur, solange die App geöffnet ist.
 - Beim Zurückholen der App wird einmal sofort abgeglichen.
