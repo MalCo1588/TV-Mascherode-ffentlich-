@@ -1,6 +1,14 @@
 # Änderungen je Version
 
-Die neueste Version steht oben. Dieselbe Liste steht in der App im Reiter **Neu**.
+Die neueste Version steht oben. Dieselbe Liste steht in der App unter **Mehr → Neuigkeiten**.
+
+## Version 3.4 – 05.11.2026
+- Neue Übungsart „Erster Kontakt“: 10 Übungen für die Ballannahme unter Druck, damit ihr mit der Annahme direkt gut weiterspielen könnt.
+- Von „Annahme-Gassen in Paaren“ und „Hohe Bälle annehmen und ablegen“ über „Anlaufender Gegner: mit dem ersten Kontakt vorbei“ bis zu „3 gegen 3 mit Zwei-Kontakt-Pflicht“ und einem passenden Abschlussspiel.
+- In „Mein Training“ als Filter „Erster Kontakt“, im Trainingsplan als eigener Schwerpunkt.
+- Spieltag: Spielsysteme nach Dreier-, Vierer- und Fünferkette sortiert, das System wählst du im Auswahlmenü.
+- Übersichtlichere Menüs: fünf Hauptbereiche Training, Spieltag, Team, Laufchallenge und Mehr. Auf dem Handy sitzen sie als Leiste unten.
+- Unter Training liegen Plan (Saison oder Vorbereitung), Mein Training, Übungen und Übung erstellen. Unter Mehr findest du Neuigkeiten, die Synchronisation und App und Updates.
 
 ## Version 3.3 – 05.11.2026
 - Neue Übungsart „Vororientierung“: 11 Übungen, die den Schulterblick und die Entscheidung vor der Ballannahme trainieren, damit ihr im Spiel ruhiger am Ball seid.
