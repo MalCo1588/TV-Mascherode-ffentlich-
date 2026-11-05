@@ -2,6 +2,12 @@
 
 Die neueste Version steht oben. Dieselbe Liste steht in der App im Reiter **Neu**.
 
+## Version 3.3 – 05.11.2026
+- Neue Übungsart „Vororientierung“: 11 Übungen, die den Schulterblick und die Entscheidung vor der Ballannahme trainieren, damit ihr im Spiel ruhiger am Ball seid.
+- Vom Aufwärmen über 4 gegen 2, Technik und Torabschluss bis zum Abschlussspiel, z. B. „Farbtore hinter dem Rücken“, „Gegner im Rücken: aufdrehen oder klatschen lassen“ und „Drei-Zonen-Spiel mit Verlagerung“.
+- In „Mein Training“ als Filter „Vororientierung“, im Trainingsplan als eigener Schwerpunkt.
+- Neues Zeichen im Piktogramm für den Schulterblick, dazu farbige Hütchentore.
+
 ## Version 3.2 – 01.11.2026
 - Spieltag: nur noch 11 gegen 11, dafür 14 Spielsysteme: 4-4-2, 4-4-2 Raute, 4-4-1-1, 4-3-3, 4-2-3-1, 4-1-4-1, 4-5-1, 4-3-2-1, 4-3-1-2, 3-5-2, 3-4-3, 3-4-1-2, 5-3-2 und 5-4-1.
 - Bei der Position lässt sich jetzt auch „Torwart“ auswählen, als erste oder zweite Wahl. Wer Torwart als zweite Wahl hat, springt ein, wenn kein Torwart da ist.

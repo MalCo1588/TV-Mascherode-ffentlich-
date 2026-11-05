@@ -2,7 +2,7 @@
 
 
 > **Wichtig beim Wechsel von 3.0 oder älter auf 3.1 und neuer:** Die App hat eine neue Signatur. Einmalig die alte App deinstallieren und danach die neue installieren. Anschließend unter **Team** die Synchronisation mit Link, PIN und Name neu verbinden, dann sind Team, Laufchallenge und eigene Übungen wieder da.
-Android-App der Altherren Ü32 des TV Mascherode: Trainingsplaner mit 200 Übungen, Vorbereitungs-Einheiten, Teamliste und Laufchallenge.
+Android-App der Altherren Ü32 des TV Mascherode: Trainingsplaner mit über 200 Übungen, Vorbereitungs-Einheiten, Teamliste und Laufchallenge.
 
 ## Installieren
 **[⬇ Aktuelle App herunterladen](https://raw.githubusercontent.com/MalCo1588/TV-Mascherode-ffentlich-/main/apk/TVM-Ue32-Trainer-aktuell.apk)**
